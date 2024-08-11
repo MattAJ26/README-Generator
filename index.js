@@ -33,13 +33,23 @@ const questions = [
     choices: [
       'GPL',
       'Apache-2.0',
-      'Other',
+      'MIT',
     ]
   },
   {
     type: 'input',
-    name: 'credits',
-    message: 'List collaborators and their GitHub profiles',
+    name: 'contributing',
+    message: 'Describe how to contribute to the project',
+  },
+  {
+    type: 'input',
+    name: 'tests',
+    message: 'Provide details on how to run any tests here',
+  },
+  {
+    type: 'input',
+    name: 'questions',
+    message: 'Provide your GitHub username and email address here',
   },
 ];
 
