@@ -14,7 +14,8 @@
 install Inquirer
 
 ## Usage
-TBD
+![Screenshot](https://github.com/user-attachments/assets/1fc2c699-9ac1-4c89-a6aa-a1174e563a9f)
+
 
 ## Contributing
 Follow this link: github.com/MattAJ26/README-Generator
