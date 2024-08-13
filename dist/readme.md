@@ -1,7 +1,10 @@
-# title
+# README Generator
 
+          ![MIT badge](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+  
           ## Description
-          asdfasdf
+          A professional README generator that is created by asking a series of questions
 
           ## Table of Contents
           - [Installation](#installation)
@@ -10,21 +13,15 @@
           - [License](#license)
 
           ## Installation
-          install
+          install Inquirer
 
           ## Usage
-          a
+          TBD
 
           ## Contributing
-          no
+          Follow this link: github.com/MattAJ26/README-Generator
 
-          #### Link
-          [MIT](https://opensource.org/licenses/MIT)
-
-          #### Badge
-          ![MIT badge](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-          #### Section
+          #### License
           ## License
 
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
@@ -33,5 +30,5 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
           undefined
 
           ## Questions
-          me
+          github.com/MattAJ26 email: mattajohnson26@gmail.com
           -Here you can find my contact info to reach out to me with any questions about this project.

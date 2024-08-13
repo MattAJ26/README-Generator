@@ -23,7 +23,6 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (licenseLinks[license]) {
-    // change license-Text.com to actual license to read
     return `[${license}](${licenseLinks[license]})`
   }
 
@@ -46,6 +45,9 @@ function generateMarkdown(data) {
   
   return `# ${data.title}
 
+          ${renderLicenseBadge(data.license)}
+
+  
           ## Description
           ${data.description}
 
@@ -64,13 +66,6 @@ function generateMarkdown(data) {
           ## Contributing
           ${data.contributing}
 
-          #### Link
-          ${renderLicenseLink(data.license)}
-
-          #### Badge
-          ${renderLicenseBadge(data.license)}
-
-          #### Section
           ${renderLicenseSection(data.license)}
 
           ## Tests
