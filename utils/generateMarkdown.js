@@ -28,7 +28,7 @@ function renderLicenseLink(license) {
 
   return `${license} cannot find link to license`
 }
-
+renderLicenseLink();
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
@@ -44,36 +44,37 @@ function generateMarkdown(data) {
   console.log("generate markdown", data);
   
   return `# ${data.title}
-
-          ${renderLicenseBadge(data.license)}
-
   
-          ## Description
-          ${data.description}
+${renderLicenseBadge(data.license)}
+  
+## Description
+${data.description}
 
-          ## Table of Contents
-          - [Installation](#installation)
-          - [Usage](#usage)
-          - [Credits](#credits)
-          - [License](#license)
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Tests](#tests)
+- [Questions](#questions)
 
-          ## Installation
-          ${data.installation}
+## Installation
+${data.installation}
 
-          ## Usage
-          ${data.usage}
+## Usage
+${data.usage}
 
-          ## Contributing
-          ${data.contributing}
+## Contributing
+${data.contributing}
 
-          ${renderLicenseSection(data.license)}
+${renderLicenseSection(data.license)}
 
-          ## Tests
-          ${data.test}
+## Tests
+${data.test}
 
-          ## Questions
-          ${data.questions}
-          -Here you can find my contact info to reach out to me with any questions about this project.
+## Questions
+${data.questions}
+-Here you can find my contact info to reach out to me with any questions about this project.
 `;
 }
 

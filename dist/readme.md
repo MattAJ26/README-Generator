@@ -1,34 +1,34 @@
 # README Generator
-
-          ![MIT badge](https://img.shields.io/badge/License-MIT-yellow.svg)
-
   
-          ## Description
-          A professional README generator that is created by asking a series of questions
+![MIT badge](https://img.shields.io/badge/License-MIT-yellow.svg)
+  
+## Description
+generates a readme file based on answers to questions
 
-          ## Table of Contents
-          - [Installation](#installation)
-          - [Usage](#usage)
-          - [Credits](#credits)
-          - [License](#license)
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Tests](#tests)
+- [Questions](#questions)
 
-          ## Installation
-          install Inquirer
+## Installation
+use npm to install inquirer
 
-          ## Usage
-          TBD
+## Usage
+tbd
 
-          ## Contributing
-          Follow this link: github.com/MattAJ26/README-Generator
+## Contributing
+follow link to github: github.com/myusername/project
 
-          #### License
-          ## License
+## License
 
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
-          ## Tests
-          undefined
+## Tests
+undefined
 
-          ## Questions
-          github.com/MattAJ26 email: mattajohnson26@gmail.com
-          -Here you can find my contact info to reach out to me with any questions about this project.
+## Questions
+github.com/myusername email: myemail@gmail.com
+-Here you can find my contact info to reach out to me with any questions about this project.
