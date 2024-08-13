@@ -14,7 +14,7 @@
 Use NPM to install [Inquirer](https://www.npmjs.com/package/inquirer)
 
 ## Usage
-[Screenshot](https://github.com/user-attachments/assets/1fc2c699-9ac1-4c89-a6aa-a1174e563a9f)
+![Screenshot](https://github.com/user-attachments/assets/1fc2c699-9ac1-4c89-a6aa-a1174e563a9f)
 
 [Video Demonstration](https://www.awesomescreenshot.com/video/30478012?key=fd41fbede1c9e79b9586f3240b754e0a)
 
