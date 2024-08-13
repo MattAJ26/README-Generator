@@ -19,7 +19,7 @@ Use NPM to install [Inquirer](https://www.npmjs.com/package/inquirer)
 [Video Demonstration](https://www.awesomescreenshot.com/video/30478012?key=fd41fbede1c9e79b9586f3240b754e0a)
 
 ## Contributing
-Follow this link: github.com/MattAJ26/README-Generator
+Follow this link: [README Generator](github.com/MattAJ26/README-Generator)
 
 ## License
 
