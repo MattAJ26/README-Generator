@@ -7,8 +7,10 @@
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
+- [Contributing](#contributing)
 - [License](#license)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
 Use NPM to install [Inquirer](https://www.npmjs.com/package/inquirer)
