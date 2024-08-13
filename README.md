@@ -1,6 +1,6 @@
 # README Generator
 
-          ![MIT badge](https://img.shields.io/badge/License-MIT-yellow.svg)
+          https://img.shields.io/badge/License-MIT-yellow.svg
 
   
           ## Description
@@ -23,7 +23,7 @@
 
           ## License
 
-            This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
+            This project is licensed under the https://opensource.org/licenses/MIT license.
 
           ## Tests
           undefined
